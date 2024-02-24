@@ -1,6 +1,5 @@
 {
   "name": "sanity-server",
-  "private": true,
   "version": "1.0.0",
   "main": "package.json",
   "license": "UNLICENSED",
@@ -35,5 +34,9 @@
     "printWidth": 100,
     "bracketSpacing": false,
     "singleQuote": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalnan/apple-redesigned-server.git"
   }
 }
