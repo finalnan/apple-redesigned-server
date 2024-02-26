@@ -1,6 +1,6 @@
 {
   "name": "apple-redesigned-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "package.json",
   "license": "ISC",
   "scripts": {
@@ -22,7 +22,7 @@
     "react-is": "^18.2.0",
     "sanity": "^3.0.0",
     "styled-components": "^5.2.0",
-    "finalnan-react-widgets":"0.1.0"
+    "finalnan-react-widgets": "0.1.0"
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^2.0.1",
