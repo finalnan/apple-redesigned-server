@@ -1,8 +1,8 @@
 {
-  "name": "apple-redesign-server",
+  "name": "apple-redesigned-server",
   "version": "1.0.0",
   "main": "package.json",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "scripts": {
     "dev": "sanity dev",
     "start": "sanity start",
@@ -21,7 +21,8 @@
     "react-icons": "^4.7.1",
     "react-is": "^18.2.0",
     "sanity": "^3.0.0",
-    "styled-components": "^5.2.0"
+    "styled-components": "^5.2.0",
+    "finalnan-react-widgets":"0.1.0"
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^2.0.1",
@@ -38,5 +39,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/finalnan/apple-redesigned-server.git"
-  }
+  },
+  "description": "Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.",
+  "bugs": {
+    "url": "https://github.com/finalnan/apple-redesigned-server/issues"
+  },
+  "homepage": "https://github.com/finalnan/apple-redesigned-server#readme",
+  "author": "finalnan"
 }
